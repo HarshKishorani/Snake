@@ -14,5 +14,6 @@ int main()
         game.render();
 
     }
+    std::cout << "Game Ended";
     return 0;
 }

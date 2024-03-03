@@ -1,4 +1,25 @@
 ﻿  Game.cpp
+  Snake.cpp
+C:\Harsh\Snake\Snake.cpp(26,50): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+C:\Harsh\Snake\Snake.cpp(26,50): warning C4244:         with
+C:\Harsh\Snake\Snake.cpp(26,50): warning C4244:         [
+C:\Harsh\Snake\Snake.cpp(26,50): warning C4244:             T=float
+C:\Harsh\Snake\Snake.cpp(26,50): warning C4244:         ]
+C:\Harsh\Snake\Snake.cpp(27,51): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+C:\Harsh\Snake\Snake.cpp(27,51): warning C4244:         with
+C:\Harsh\Snake\Snake.cpp(27,51): warning C4244:         [
+C:\Harsh\Snake\Snake.cpp(27,51): warning C4244:             T=float
+C:\Harsh\Snake\Snake.cpp(27,51): warning C4244:         ]
+C:\Harsh\Snake\Snake.cpp(107,53): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+C:\Harsh\Snake\Snake.cpp(107,53): warning C4244:         with
+C:\Harsh\Snake\Snake.cpp(107,53): warning C4244:         [
+C:\Harsh\Snake\Snake.cpp(107,53): warning C4244:             T=float
+C:\Harsh\Snake\Snake.cpp(107,53): warning C4244:         ]
+C:\Harsh\Snake\Snake.cpp(108,54): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+C:\Harsh\Snake\Snake.cpp(108,54): warning C4244:         with
+C:\Harsh\Snake\Snake.cpp(108,54): warning C4244:         [
+C:\Harsh\Snake\Snake.cpp(108,54): warning C4244:             T=float
+C:\Harsh\Snake\Snake.cpp(108,54): warning C4244:         ]
   main.cpp
   Generating Code...
   Snake.vcxproj -> C:\Harsh\Snake\x64\Debug\Snake.exe

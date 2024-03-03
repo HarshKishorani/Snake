@@ -13,14 +13,22 @@ private:
 		Right
 	};
 
+	bool endGame;
+	int points;
+
 	// Variables
+	sf::Color snakeColor;
 	sf::Vector2f currentDirectionVector;
-	float length = 12.f;
+	float length = 2.f;
 	std::vector<sf::RectangleShape> snakeBody;
 	Direction currentDirection;
+	sf::CircleShape fruit;
+	sf::Vector2f fruitPosition;
+
+	void placeFruit();
 
 	// Clock
-	sf::Clock clock; // Measures elapsed time
+	sf::Clock clock; 
 	float updateInterval = 0.1f; // Seconds between each update (adjust this to control speed)
 
 	// InitSnake
@@ -29,10 +37,12 @@ private:
 	//Collisions
 	bool checkBodyCollision(sf::Vector2f& headNextPosition);
 	bool checkWithinBoundry(sf::Vector2f& headNextPosition);
+	void checkFruitCollision();
 public:
 	Snake();
 	virtual ~Snake();
 
+	bool getEndGame();
 	void moveSnake(float dx, float dy);
 	void update();
 	void render(sf::RenderTarget &target);

@@ -65,6 +65,7 @@ void Game::update()
 {
 	this->pollEvents();
 	this->snake.update();
+	this->endGame = this->snake.getEndGame();
 }
 
 void Game::render()

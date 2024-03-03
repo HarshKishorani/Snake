@@ -11,16 +11,16 @@
       "RelativeMoniker": "D:0:0:{BC7A588C-ABE3-4017-AF9B-B71AA0D91166}|Snake.vcxproj|solutionrelative:Snake.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC7A588C-ABE3-4017-AF9B-B71AA0D91166}|Snake.vcxproj|C:\\Harsh\\Snake\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BC7A588C-ABE3-4017-AF9B-B71AA0D91166}|Snake.vcxproj|solutionrelative:Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{BC7A588C-ABE3-4017-AF9B-B71AA0D91166}|Snake.vcxproj|C:\\Harsh\\Snake\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC7A588C-ABE3-4017-AF9B-B71AA0D91166}|Snake.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BC7A588C-ABE3-4017-AF9B-B71AA0D91166}|Snake.vcxproj|C:\\Harsh\\Snake\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BC7A588C-ABE3-4017-AF9B-B71AA0D91166}|Snake.vcxproj|solutionrelative:Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC7A588C-ABE3-4017-AF9B-B71AA0D91166}|Snake.vcxproj|C:\\Harsh\\Snake\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BC7A588C-ABE3-4017-AF9B-B71AA0D91166}|Snake.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{BC7A588C-ABE3-4017-AF9B-B71AA0D91166}|Snake.vcxproj|C:\\Harsh\\Snake\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC7A588C-ABE3-4017-AF9B-B71AA0D91166}|Snake.vcxproj|solutionrelative:Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -44,7 +44,7 @@
               "RelativeDocumentMoniker": "Snake.h",
               "ToolTip": "C:\\Harsh\\Snake\\Snake.h",
               "RelativeToolTip": "Snake.h",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABsAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-03-03T05:39:19.532Z",
               "EditorCaption": ""
@@ -57,22 +57,23 @@
               "RelativeDocumentMoniker": "Snake.cpp",
               "ToolTip": "C:\\Harsh\\Snake\\Snake.cpp",
               "RelativeToolTip": "Snake.cpp",
-              "ViewState": "AQIAAEgAAAAAAAAAAAAAABkAAAABAAAA",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAAABcAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-03-03T05:42:09.598Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Game.h",
               "DocumentMoniker": "C:\\Harsh\\Snake\\Game.h",
               "RelativeDocumentMoniker": "Game.h",
               "ToolTip": "C:\\Harsh\\Snake\\Game.h",
               "RelativeToolTip": "Game.h",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAANAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-03-03T04:58:37.692Z"
+              "WhenOpened": "2024-03-03T04:58:37.692Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -82,21 +83,23 @@
               "RelativeDocumentMoniker": "Game.cpp",
               "ToolTip": "C:\\Harsh\\Snake\\Game.cpp",
               "RelativeToolTip": "Game.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgAAAAAAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAEMAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-03T04:59:21.749Z"
+              "WhenOpened": "2024-03-03T04:59:21.749Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Harsh\\Snake\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
               "ToolTip": "C:\\Harsh\\Snake\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAtAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-02-26T06:25:35.099Z"
+              "WhenOpened": "2024-02-26T06:25:35.099Z",
+              "EditorCaption": ""
             }
           ]
         }
